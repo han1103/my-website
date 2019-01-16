@@ -3,3 +3,5 @@
 update at local repository
 
 change again
+
+test changing proj name
